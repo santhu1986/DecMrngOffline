@@ -1,0 +1,12 @@
+package com.ebanking.master;
+
+import org.testng.annotations.Test;
+
+public class RolNG extends Base
+{
+     @Test
+	public void Rol() throws InterruptedException
+	{
+		LB.Role("Tellerbh","E");
+	}
+}

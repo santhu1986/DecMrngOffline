@@ -1,0 +1,34 @@
+package com.ebanking.master;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+public class SampleNG 
+{
+
+	WebDriver driver;
+	@Test
+	public void xyz()
+	{
+		//Launch Firefox
+		
+		driver=new FirefoxDriver();
+		driver.manage().window().maximize();
+	}
+	@Test
+	public void abc() throws InterruptedException
+	{
+		//URL
+	
+		driver.get("http://103.211.39.246/ranford2");
+		Thread.sleep(3000);
+	}
+	@Test
+	public void pqr()
+	{
+		//Close
+	
+		driver.close();
+	}
+}
