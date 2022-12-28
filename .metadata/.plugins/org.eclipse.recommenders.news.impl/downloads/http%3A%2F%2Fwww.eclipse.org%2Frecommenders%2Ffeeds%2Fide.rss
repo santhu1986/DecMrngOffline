@@ -14,7 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="keywords" content="Archived, old, closed, suspended, shutdown, closed"/>
     <link rel="shortcut icon" href="/eclipse.org-common/themes/solstice/public/images/favicon.ico"/>
     <title>Archived Projects | The Eclipse Foundation</title>
-    <link rel="preconnect stylesheet" href="/eclipse.org-common/themes/solstice/public/stylesheets/quicksilver.min.css?v0.0.200"/>
+    <link rel="preconnect stylesheet" href="/eclipse.org-common/themes/solstice/public/stylesheets/quicksilver.min.css?v0.0.211"/>
 <meta name="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
 <meta property="og:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-200x200.png"/>
@@ -147,6 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><a href="http://archive.eclipse.org/archived_projects/buckminster.tgz">Buckminster</a> project.  Archived: February 2019</p>
         <p><a href="http://archive.eclipse.org/archived_projects/cdtk.tgz">CDTK</a> project.  Archived: January 2012</p>
         <p><a href="http://archive.eclipse.org/archived_projects/cme-project.tar.gz">CME</a> project.  Archived: January 2006</p>
+        <p><a href="http://archive.eclipse.org/archived_projects/codewind.tgz">Codewind</a> project.  Archived: November 2022</p>
         <p><a href="http://archive.eclipse.org/archived_projects/corona.tgz">Corona</a> project.  Archived: April 2010</p>
         <p><a href="http://archive.eclipse.org/archived_projects/cosmos.tgz">Cosmos</a> project.  Archived: January 2012</p>
         <p><a href="http://archive.eclipse.org/archived_projects/cobol.tgz">Cobol</a> project.  Archived: February 2010</p>
@@ -296,6 +297,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                           <li>
                 <i class="fa fa-caret-right fa-fw"></i>
                 <a href="/projects/training">Committer Training</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="/projects/calendar">Projects Event Calendar</a>
               </li>
                       
                                                           <li>
@@ -468,7 +474,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </footer>
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/eclipse.org-common/themes/solstice/public/javascript/main.min.js?var=0.0.200"></script>
+<script src="/eclipse.org-common/themes/solstice/public/javascript/main.min.js?var=0.0.211"></script>
 
 </body>
 </html>
